@@ -4,7 +4,11 @@ title: Delete your account
 
 # Delete your Caddie Connect account
 
-## How to ask
+## In the app
+
+Open Caddie Connect, go to **Profile**, scroll to the bottom and tap **Delete account**, then confirm. It takes effect straight away.
+
+## Without the app
 
 Email tommylyons02@gmail.com from the address you sign in with, with the subject "Delete my account". We'll delete it within 30 days and confirm by email.
 

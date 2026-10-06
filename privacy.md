@@ -6,7 +6,7 @@ title: Privacy policy
 
 **Last updated:** 6 October 2026
 
-Caddie Connect is an app and website that golf clubs use to offer bags (rounds) to their caddies. This policy explains what it collects, why, and what you can do about it. "We" means the people who run Caddie Connect. Questions: tommylyons02@gmail.com.
+Caddie Connect is an app and website, made by Lacuna Technology ("we"), that golf clubs use to offer bags (rounds) to their caddies. This policy explains what it collects, why, and what you can do about it. Questions: tommylyons02@gmail.com.
 
 ## What we collect
 
@@ -46,11 +46,11 @@ We don't sell your data or share it for advertising. It is processed for us by:
 
 ## How long we keep it
 
-Your account and your place on a club's caddie list are kept until you or the club remove them. Each club chooses how long records of bags, availability and cancellation notices are kept: indefinitely, or deleted automatically after 3, 6, 12 or 24 months. When a club removes you from its list, your availability there is deleted straight away and your past bags at that club no longer show your name. Payment records are kept by Stripe for as long as the law requires.
+Your account and your place on a club's caddie list are kept until you delete your account or the club removes you. When you delete your account in the app it happens straight away; if you ask us by email, we do it within 30 days. Each club chooses how long records of bags, availability and cancellation notices are kept: indefinitely, or deleted automatically after 3, 6, 12 or 24 months. When a club removes you from its list, your availability there is deleted straight away and your past bags at that club no longer show your name. Payment records are kept by Stripe for as long as the law requires.
 
 ## Your rights
 
-You can see and change your availability in the app. You can also ask us for a copy of your data, to correct or delete it, or to restrict or object to how we use it, by emailing tommylyons02@gmail.com. To delete your account, see https://lyonstead.github.io/caddie-connect-legal/delete-account. If you're unhappy with how we've handled your data, you can complain to the Data Protection Commission (dataprotection.ie).
+You can see and change your availability in the app. You can also ask us for a copy of your data, to correct or delete it, or to restrict or object to how we use it, by emailing tommylyons02@gmail.com. To delete your account: in the app, Profile → Delete account, or see https://lyonstead.github.io/caddie-connect-legal/delete-account. If you're unhappy with how we've handled your data, you can complain to the Data Protection Commission (dataprotection.ie).
 
 ## Children
 

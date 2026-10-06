@@ -4,7 +4,7 @@ title: Caddie Connect
 
 # Caddie Connect
 
-Caddie Connect is an app that golf clubs use to offer bags to their caddies.
+Caddie Connect is an app by Lacuna Technology that golf clubs use to offer bags to their caddies.
 
 - [Privacy policy](privacy)
 - [Delete your account](delete-account)
